@@ -6,3 +6,12 @@ void push();
 void pop();
 void display();
 struct stack
+{
+  int input[size];
+  int top;
+}
+
+int main()
+{
+  
+  
