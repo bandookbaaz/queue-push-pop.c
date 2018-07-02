@@ -1,2 +1,8 @@
-# queue-push-pop.c
-this program is work for insert and delete via push or pop.
+#include<stdio.h>
+#include<stdlib.h>
+#define size 5
+void menu();
+void push();
+void pop();
+void display();
+struct stack
